@@ -5,13 +5,13 @@ This Web application is used to transfer money between multiple users.
 
 # TECHNOLOGY USED:
 
-=> Frontend : React
-=> Backend : NodeJS
-=> Database : MongoDB (using MongoDB Atlas)
+=> Frontend: React                                                                             
+=> Backend : NodeJS                                                                               
+=> Database : MongoDB (using MongoDB Atlas)                                                     
 
-# HOSTING PALTFORM (Heroku + Netlify)
+# HOSTING PALTFORM (Heroku + Netlify)                                                         
 
-Frontend(Netlify): https://basic-banking-system2.netlify.app/
-Backend(Heroku):  https://basic-banking-system2.herokuapp.com/
+Frontend(Netlify): https://basic-banking-system2.netlify.app/                                                
+Backend(Heroku):  https://basic-banking-system2.herokuapp.com/                                   
 
-# Youtube Link: https://www.youtube.com/watch?v=cYHWgUwBR70
+Youtube Link: https://www.youtube.com/watch?v=cYHWgUwBR70
