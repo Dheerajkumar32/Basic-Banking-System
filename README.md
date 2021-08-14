@@ -9,7 +9,7 @@ This Web application is used to transfer money between multiple users.
 => Backend : NodeJS                                                                               
 => Database : MongoDB (using MongoDB Atlas)                                                     
 
-# HOSTING PALTFORM (Heroku + Netlify)                                                         
+# HOSTING PLATFORM (Heroku + Netlify)                                                         
 
 Frontend(Netlify): https://basic-banking-system2.netlify.app/                                                
 Backend(Heroku):  https://basic-banking-system2.herokuapp.com/                                   
